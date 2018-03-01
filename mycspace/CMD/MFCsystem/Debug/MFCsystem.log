@@ -1,0 +1,16 @@
+﻿生成启动时间为 2018/2/28 19:48:46。
+     1>项目“E:\mycspace\CMD\MFCsystem\MFCsystem.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MFCsystem.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MFCsystemDlg.cpp
+         MFCsystemDlg.cpp
+       Link:
+         D:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\mycspace\CMD\Debug\MFCsystem.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\visual studio\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\mycspace\CMD\Debug\MFCsystem.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\mycspace\CMD\Debug\MFCsystem.lib" /MACHINE:X86 Debug\MFCsystem.res
+         Debug\MFCsystem.obj
+         Debug\MFCsystemDlg.obj
+         Debug\stdafx.obj
+         MFCsystem.vcxproj -> E:\mycspace\CMD\Debug\MFCsystem.exe
+     1>已完成生成项目“E:\mycspace\CMD\MFCsystem\MFCsystem.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.95
